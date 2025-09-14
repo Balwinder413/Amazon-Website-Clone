@@ -1,4 +1,4 @@
-Amazon Clone Website
+ Amazon Clone Website
 
 Project Overview
 
